@@ -1,1 +1,1 @@
-describe('example', () => { it('works!', () => {}); it('works again', () => {}); });
+describe('example', () => { it('works', () => {}); it('works again', () => {}); });
